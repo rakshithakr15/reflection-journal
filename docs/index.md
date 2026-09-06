@@ -1,5 +1,9 @@
 🚀 Built something I’ve been wanting to experiment with for a while — a private AI companion for reflection and journaling.
 
+<img width="1279" height="772" alt="image" src="https://github.com/user-attachments/assets/e3d46231-5317-4312-a2c3-b493bfd872b3" />
+
+<img width="1435" height="763" alt="image" src="https://github.com/user-attachments/assets/c9bbf8bb-8c28-4576-978b-d71171e6d7e1" />
+
 As part of the **#AccelerateAIwithCloudRun** cohort, I built a reflection journal that combines **Gemini, Firebase Authentication, Firestore, Secret Manager, and Cloud Run**.
 
 But the interesting part for me wasn’t simply getting an AI response on the screen.
