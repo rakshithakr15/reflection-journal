@@ -1,0 +1,12 @@
+{
+  "projectId": "coffee-assistant-mgr",
+  "appId": "1:191187670:web:a2d25d7ab57297780bd777",
+  "apiKey": "AIzaSyBymZ-MlUYPVe_GFIITffEDw-oELflJWHY",
+  "authDomain": "coffee-assistant-mgr.firebaseapp.com",
+  "firestoreDatabaseId": "ai-studio-reflectionjourna-7a4fb99a-e8e4-4cf1-a505-ec8dd275476f",
+  "storageBucket": "coffee-assistant-mgr.firebasestorage.app",
+  "messagingSenderId": "191187670",
+  "measurementId": "",
+  "oAuthClientId": "191187670-6rr8gb1svfbcnksik20iuame5a1v0csc.apps.googleusercontent.com",
+  "recaptchaSiteKey": ""
+}

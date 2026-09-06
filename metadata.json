@@ -1,0 +1,6 @@
+{
+  "name": "Reflection Journal",
+  "description": "A private journal and reflection web application powered by Gemini and Firestore with secure user authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
